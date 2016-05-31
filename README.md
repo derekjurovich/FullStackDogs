@@ -54,7 +54,7 @@ module.exports = [{ //data reserve
 
 * Okay, its time to start building.  Go ahead and run through all of the code needed to setup our server in the index.js file. Make sure you include each of the following.
 
-  * Require body-parser, cors, and express. And don't forget to require your dummy data in the dogs.js file.
+  * Require body-parser, cors, and express. And don't forget to require your dummy data in the dogs.js file.  
   * Instantiate express, cors, body-parser.json, body-parser.urlencoded, and set up express.static to run your public folder, so that nodemon works with your front end too.
   * Setup your listener on any available port. Normally, we use anything between 3000 and 9000.
 
